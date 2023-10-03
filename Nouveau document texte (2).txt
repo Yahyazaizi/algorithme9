@@ -1,0 +1,36 @@
+algo ex19
+AlgorithmeNbre Jours
+
+Variables mois: chaine de caractères
+
+Début
+
+Ecrire ("Veuillez entrer un mois: ")
+
+Lire (mois)
+
+cas mois vaut :
+
+"Janvier": Ecrire (" 31 jours ")
+
+"Févirer": Ecrire (" 28 ou 29 jours ")
+
+"Mars": Ecrire (" 31 jours ")
+
+"Avril": Ecrire (" 30 jours ")
+
+"Mai": Ecrire (" 31 jours ")
+
+"Juin": Ecrire (" 30 jours ")
+
+"Juillet": Ecrire (" 31 jours ")
+"Août": Ecrire (" 31 jours ")
+
+"Septembre":Ecrire (" 30 jours ")
+
+"Octobre": Ecrire (" 31 jours ") 
+"Novembre":  Ecrire (" 30 jours ")
+"Décembre": Ecrire (" 31 jours ")
+Sinon: Ecrire ("Le nom de mois est incorrect")
+fincas
+Fin
